@@ -1,0 +1,42 @@
+h1,h2 {
+  font-family: "Red Hat Display", sans-serif;
+}
+
+body {
+  background: #d5e8f7;
+  color: #111111;
+  font-family: "Gabarito", sans-serif;
+  line-height: 1.8;
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+section {
+  margin-bottom: 35px;
+}
+
+header {
+  text-align: center;
+  padding: 30px;
+  border-bottom: 3px solid #d0cfcf;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 25px 0 0 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #143a5d;
+  font-weight: 600;
+}
